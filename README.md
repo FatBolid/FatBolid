@@ -11,7 +11,7 @@
 <hr />
 
 <div align='center'>
-<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=FatBolid">
+<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=FatBolid&style=for-the-badge&color=0F4995">
 </div>
 
 <div align='center'>
@@ -19,5 +19,5 @@
 </div>
 
 <div align='center'>
-  <img src="https://lanyard.cnrad.dev/api/817825155702849597?bg=333333&borderRadius=10px" />  
+  <img src="https://lanyard.cnrad.dev/api/817825155702849597?bg=1f1f1f&borderRadius=10px" />  
 </div>
