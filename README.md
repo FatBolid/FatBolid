@@ -11,6 +11,10 @@
 <hr />
 
 <div align='center'>
+<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=FatBolid">
+</div>
+
+<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=FatBolid&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true" />
 </div>
 
