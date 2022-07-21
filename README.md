@@ -23,7 +23,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://lanyard.cnrad.dev/api/817825155702849597?bg=1f1f1f&borderRadius=10px" />  
+  <img src="https://lanyard.cnrad.dev/api/817825155702849597?bg=1f1f1f&borderRadius=10px&animated=false" />  
 </div>
 
 <div align='center'>
