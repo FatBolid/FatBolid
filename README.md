@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Booldy 🤔</h1>
+  <h1><a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a> Booldy <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a></h1>
   
   <p align="center">
     <a href="https://skillicons.dev">
